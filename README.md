@@ -40,17 +40,15 @@ Crear una **visualización interactiva** del comportamiento del índice de preci
 ---
 
 #  Estructura del repositorio
-├── data/
-│ ├── insumos_raw
-│ └── insumos_clean
-│
-├── notebooks/
-│ └── UPRA_limpieza_notebook.ipynb
-│
-├── powerbi/
-│ └── dashboard.pbix
-│
-└── README.md
+data/
+    insumos_raw
+    insumos_clean
+notebooks/
+    UPRA_limpieza_notebook.ipynb
+powerbi/
+    dashboard.pbix
+
+README.md
 
 Estructura insumos_clean:
 
@@ -72,5 +70,5 @@ Estructura insumos_clean:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/usuario/proyecto-upra.git
+git clone https://github.com/jeffersoncordobap/proyecto_UPRA.git
 
