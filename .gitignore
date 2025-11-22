@@ -1,0 +1,12 @@
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Cache de Python
+__pycache__/
+
+# Entorno virtual
+venv/
+
+# Archivos del sistema (Windows / Mac)
+.DS_Store
+Thumbs.db
