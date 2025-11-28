@@ -38,7 +38,9 @@ Crear una **visualización interactiva** del comportamiento del índice de preci
 - Aumenta la competitividad del pequeño agricultor.
 
 ---
-
+# Dashboard Power BI - Enlace publico
+Puedes ver el dashboard completo publicado aqui:
+https://app.powerbi.com/view?r=eyJrIjoiYTE1ZDM0ZDktZDdiMi00NjBkLWE0MDQtNzY2N2VhNzQxNTNjIiwidCI6IjJkYzMwY2ViLTkwZmQtNDJjMC1iNjNjLTVhY2RkMTI4OTBiMSIsImMiOjR9
 
 #  Dataset utilizado
 - https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/-ndice-de-precios-de-insumos-agr-colas/gwbi-fnzs/about_data
