@@ -24,9 +24,9 @@ Crear una **visualización interactiva** del comportamiento del índice de preci
 
 ##  Objetivos específicos
 
-- **OE1.** Analizar la variación del índice por tipo de insumo en el periodo disponible.  
-- **OE2.** Generar visualizaciones (líneas, barras y ranking) sobre las tendencias del mercado.  
-- **OE3.** Identificar meses/años con mayores incrementos o tendencias inflacionarias persistentes.  
+- **OE1.** Analizar la variación del índice de precios por tipo de insumo agrícola en el periodo de tiempo disponible.  
+- **OE2.** Generar visualizaciones interactivas sobre las tendencias del mercado.  
+- **OE3.** Identificar periodos de tiempo con mayores incrementos o tendencias inflacionarias persistentes.  
 
 ---
 
